@@ -1,5 +1,12 @@
 ### Hi, I'm Suhas here 👋
 
+
+
+### Contact
+
+- [Email](mailto:prao013@ucr.edu) :email:
+- [LinkedIn](https://www.linkedin.com/in/psuhasrao) :tea:
+
 <!--
 **prao013/prao013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
