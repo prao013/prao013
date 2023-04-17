@@ -1,8 +1,5 @@
 ### Hi, I'm Suhas here 👋
 
-
-Hi Suhas here!
-
 I am an avid experimenter and seek opportunities to learn and work on new fields in my spare time. I am currently pursuing my Master's in Computer Science at University of California, Riverside. I am doing my Directed Research under the guidance of Dr. Zhijia Zhao at UCR.
 Furthering my competencies in the field of Software Development, Compiler Construction and on building large scale reliable solutions. My professional skills include:
 ->Coding and Software Design
