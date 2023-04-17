@@ -1,7 +1,22 @@
 ### Hi, I'm Suhas here 👋
 
 
+Hi Suhas here!
 
+I am an avid experimenter and seek opportunities to learn and work on new fields in my spare time. I am currently pursuing my Master's in Computer Science at University of California, Riverside. I am doing my Directed Research under the guidance of Dr. Zhijia Zhao at UCR.
+Furthering my competencies in the field of Software Development, Compiler Construction and on building large scale reliable solutions. My professional skills include:
+->Coding and Software Design
+->Problem Solving
+->Compiler Software Developer(LLVM/C++)
+->Teamwork and Collaboration
+->Machine Learning/Deep Learning
+
+I am a Software Developer with 4+ years of experience who loves coding, solving problems and designing software. Over the last four years, as part of the Software Development team, I made critical contributions to the Finance Solutions developed by SAP. Apart from personal projects in Compiler design and Machine Learning.
+
+Visit my GitHub to know more about my recent projects https://github.com/prao013
+Personally, I'm a staunch proponent of the Growth Mindset and strongly believe that technical skills coupled with perseverance can enable us to solve any complex problem.
+
+Reach me via LinkedIn or email at prao013@ucr.edu.
 ### Contact
 
 - [Email](mailto:prao013@ucr.edu) :email:
